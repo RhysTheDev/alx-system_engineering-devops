@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l | sort --month-sort | head
+ls | sort --month-sort | head
